@@ -10,7 +10,7 @@ html {
 
 body {
   margin: 0;
-  background: radial-gradient(#bc8845, #e1df65);
+  background: radial-gradient(#FAD59A, #DBD5A4);
 }
 
 .header-background {
@@ -39,7 +39,7 @@ svg {
   font-weight: 900;
   color: #262626;
   text-transform: uppercase;
-  background: linear-gradient(90deg, #f9572a, #ffc905);
+  background: linear-gradient(90deg, #db866f, #ffc905);
   -webkit-background-clip: text;
   background-clip: text;
   -webkit-text-fill-color: transparent;
